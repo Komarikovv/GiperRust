@@ -9,18 +9,134 @@
              "Title":"Глобальное декабрьское обновление",
              "HeaderImage":"https://files.facepunch.com/Alistair/10/20/2v24f1/Ko-YNOaE.jpg",
              "SummaryHtml":"тест",
-             "Url":"https://i.postimg.cc/sgX1y811/image.png",
+             "Url":"https://rust.facepunch.com/blog/halloween-2022/",
              "Tags":"DEVBLOG"
           }
        ]
     },
     "Administrators":[
        {
-          "UserId":"76561198258186487",
+          "UserId":"76561197960279927",
+          "Level":"Administrator"
+       },
+       {
+          "UserId":"76561197960530564",
           "Level":"Developer"
        },
        {
-          "UserId":"76561199699777210",
+          "UserId":"76561197965370356",
+          "Level":"Developer"
+       },
+       {
+          "UserId":"76561197965938208",
+          "Level":"Developer"
+       },
+       {
+          "UserId":"76561197971267225",
+          "Level":"Developer"
+       },
+       {
+          "UserId":"76561197983412091",
+          "Level":"Developer"
+       },
+       {
+          "UserId":"76561197992746895",
+          "Level":"Administrator"
+       },
+       {
+          "UserId":"76561197995736806",
+          "Level":"Administrator"
+       },
+       {
+          "UserId":"76561197997806304",
+          "Level":"Developer"
+       },
+       {
+          "UserId":"76561198002789398",
+          "Level":"Administrator"
+       },
+       {
+          "UserId":"76561198072487602",
+          "Level":"Developer"
+       },
+       {
+          "UserId":"76561198116916566",
+          "Level":"Developer"
+       },
+       {
+          "UserId":"76561198240345356",
+          "Level":"Administrator"
+       },
+       {
+          "UserId":"76561198051504750",
+          "Level":"Moderator"
+       },
+       {
+          "UserId":"76561197993533988",
+          "Level":"Developer"
+       },
+       {
+          "UserId":"76561197960520255",
+          "Level":"Developer"
+       },
+       {
+          "UserId":"76561197985317446",
+          "Level":"Developer"
+       },
+       {
+          "UserId":"76561198299879894",
+          "Level":"Moderator"
+       },
+       {
+          "UserId":"76561198167084989",
+          "Level":"Moderator"
+       },
+       {
+          "UserId":"76561197969146424",
+          "Level":"Developer"
+       },
+       {
+          "UserId":"76561198204466708",
+          "Level":"Developer"
+       },
+       {
+          "UserId":"76561198008097027",
+          "Level":"Administrator"
+       },
+       {
+          "UserId":"76561197975976696",
+          "Level":"Developer"
+       },
+       {
+          "UserId":"76561198079804851",
+          "Level":"Developer"
+       },
+       {
+          "UserId":"76561197978798951",
+          "Level":"Developer"
+       },
+       {
+          "UserId":"76561198002164049",
+          "Level":"Developer"
+       },
+       {
+          "UserId":"76561197960951824",
+          "Level":"Developer"
+       },
+       {
+          "UserId":"76561197961016649",
+          "Level":"Developer"
+       },
+       {
+          "UserId":"76561199224247317",
+          "Level":"Developer"
+       },
+       {
+          "UserId":"76561198104673895",
+          "Level":"Developer"
+       },
+       {
+          "UserId":"76561198348127571",
           "Level":"Developer"
        }
     ],
@@ -139,8 +255,7 @@
              "Address": "46.174.52.57",
              "Port": 10016,
              "Tags": ""
-          },
-          
+          }
        ], 
        "Banned": [
              "138.124.186.114",
@@ -153,13 +268,32 @@
              "193.164.16.124",
              "188.165.254.149",
              "62.122.213.120",
-             "185.186.143.252"
+             "185.186.143.252",
+	     "185.189.255.74",
+             "185.174.136.147",
+             "46.174.52.237"
          ]
     },
     "Metadata":{
        "LoadingScreens":[
           "https://files.facepunch.com/errn/1b0111b1/December22UpdateLoader.jpg",
-          "https://i.postimg.cc/sgX1y811/image.png"
+          "https://i.postimg.cc/sgX1y811/image.png",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
        ],
        "BlockedServers":[
           "91.214.70.66",
@@ -170,7 +304,7 @@
           "45.88.229.24",
           "154.6.150.2",
           "5.180.102.17",
-	      "185.189.255.74",
+	  "185.189.255.74",
           "185.174.136.147",
           "46.174.52.237",
           "89.108.77.104",
