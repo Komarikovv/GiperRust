@@ -252,12 +252,18 @@
     "Servers":{
        "Official":[
           {
-             "Address": "s1.hks.network",
+             "Address": "46.174.52.57",
+             "Port": 10016,
+             "Tags": ""
+          },
+      	  {
+             "Address": "46.174.52.57",
              "Port": 10016,
              "Tags": ""
           }
        ], 
        "Banned": [
+             "138.124.186.114",
              "185.186.143.159",
              "138.124.186.90",
              "138.124.186.182",
@@ -276,7 +282,7 @@
     "Metadata":{
        "LoadingScreens":[
           "https://files.facepunch.com/errn/1b0111b1/December22UpdateLoader.jpg",
-          "https://i.postimg.cc/sgX1y811/image.png",
+          "https://i.postimg.cc/nhZR03kJ/rust-muzzlebrakeandboost-duo-01.jpg",
           "",
           "",
           "",
